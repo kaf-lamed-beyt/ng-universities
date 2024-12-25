@@ -1,6 +1,6 @@
 {
   "logo": "https://myschoolportal.net/blog/wp-content/uploads/2024/11/university-of-lagos-logo-transparent.png",
-  "current_vc": "",
+  "current_vc": "Professor Folasade T. Ogunsola",
   "name": "University of Lagos",
   "acronym": "UNILAG",
   "type": "federal",
@@ -12,29 +12,164 @@
   "website": "https://unilag.edu.ng",
   "faculties": [
     {
-      "name": "Faculty of Science",
-      "acronym": "FOS",
-      "departments": [
-        { "acronym": "", "name": "Biochemistry" },
-        { "acronym": "", "name": "Botany" },
-        { "acronym": "", "name": "Chemistry" },
-        { "acronym": "", "name": "Computer Science" },
-        { "acronym": "", "name": "Geology" },
-        { "acronym": "", "name": "Microbiology" },
-        { "acronym": "", "name": "Physics" },
-        { "acronym": "", "name": "Zoology" }
-      ]
-    },
-    {
       "name": "Faculty of Arts",
       "acronym": "FOA",
       "departments": [
         { "acronym": "", "name": "Creative Arts" },
         { "acronym": "", "name": "English" },
-        { "acronym": "", "name": "Foreign Languages" },
-        { "acronym": "", "name": "History and Diplomatic Studies" },
-        { "acronym": "", "name": "Linguistics and African Languages" },
-        { "acronym": "", "name": "Philosophy" }
+        { "acronym": "", "name": "European Language & Integrated Studies" },
+        { "acronym": "", "name": "History and Strategic Studies" },
+        { "acronym": "", "name": "Philosophy" },
+        { "acronym": "", "name": "Religious Studies" },
+        { "acronym": "", "name": "Linguistics, African and Asian Studies" }
+      ]
+    },
+    {
+      "name": "Faculty of Basic Medical Sciences",
+      "acronym": "",
+      "departments": [
+        { "acronym": "", "name": "Anatomy" },
+        { "acronym": "", "name": "Anatomic & Molecular Pathology" },
+        { "acronym": "", "name": "Biochemistry" },
+        { "acronym": "", "name": "Medical Laboratory Science" },
+        { "acronym": "", "name": "Medical Microbiology and Parasitology" },
+        { "acronym": "", "name": "Pharmacology, Therapeutic and Toxicology" },
+        { "acronym": "", "name": "Physiology" }
+      ]
+    },
+    {
+      "name": "Faculty of Management Sciences",
+      "acronym": "",
+      "departments": [
+        { "acronym": "", "name": "Acturial Science and Insurance" },
+        { "acronym": "", "name": "Accounting" },
+        { "acronym": "", "name": "Banking and Finance" },
+        { "acronym": "", "name": "Business Adminstration" },
+        {
+          "acronym": "",
+          "name": "Industrial Relations and Personnel Management"
+        }
+      ]
+    },
+    {
+      "name": "Faculty of Clinical Sciences",
+      "acronym": "",
+      "departments": [
+        { "acronym": "", "name": "Anaesthesia" },
+        { "acronym": "", "name": "Clinical Pathology" },
+        { "acronym": "", "name": "Community Health and Primary Health Care" },
+        { "acronym": "", "name": "Haematology and Blood Transfusion" },
+        { "acronym": "", "name": "Medicine" },
+        { "acronym": "", "name": "Nursing Science" },
+        { "acronym": "", "name": "Obstetrics and Gynaecology" },
+        { "acronym": "", "name": "Ophthalmology" },
+        { "acronym": "", "name": "Paediatrics" },
+        { "acronym": "", "name": "Physiotherapy" },
+        { "acronym": "", "name": "Psychiatry" },
+        {
+          "acronym": "",
+          "name": "Radiation Biology, Radiotherapy, Radiodiagnostics and Radiography"
+        },
+        { "acronym": "", "name": "Surgery" }
+      ]
+    },
+    {
+      "name": "Faculty of Dental Sciences",
+      "acronym": "",
+      "departments": [
+        { "acronym": "", "name": "Oral and Maxillofacial Pathology/Biology" },
+        { "acronym": "", "name": "Child Dental Health" },
+        { "acronym": "", "name": "Preventive Dentistry" },
+        { "acronym": "", "name": "Restorative Dentistry" },
+        { "acronym": "", "name": "Oral and Maxillofacial Surgery" }
+      ]
+    },
+    {
+      "name": "Faculty of Education",
+      "acronym": "",
+      "departments": [
+        { "acronym": "", "name": "Adult Education" },
+        { "acronym": "", "name": "Arts & Social Science" },
+        { "acronym": "", "name": "Educational Foundation" },
+        { "acronym": "", "name": "Educational Management" },
+        { "acronym": "", "name": "Human Kinetics & Health Education" },
+        { "acronym": "", "name": "Science & Technology" }
+      ]
+    },
+    {
+      "name": "Faculty of Engineering",
+      "acronym": "",
+      "departments": [
+        { "acronym": "", "name": "Biomedical Engineering" },
+        { "acronym": "", "name": "Chemical Engineering" },
+        { "acronym": "", "name": "Civil & Environmental Engineering" },
+        { "acronym": "", "name": "Electrical & Electronics" },
+        { "acronym": "", "name": "Mechanical Engineering" },
+        { "acronym": "", "name": "Metallurgical & Materials Engineering" },
+        { "acronym": "", "name": "Surveying & Geoinformatics Engineering" },
+        { "acronym": "", "name": "Systems Engineering" }
+      ]
+    },
+    {
+      "name": "Faculty of Environmental Sciences",
+      "acronym": "",
+      "departments": [
+        { "acronym": "", "name": "Architecture" },
+        { "acronym": "", "name": "Building" },
+        { "acronym": "", "name": "Estate Management" },
+        { "acronym": "", "name": "Quantity Surveying" },
+        { "acronym": "", "name": "Urban & Regional Planning" }
+      ]
+    },
+    {
+      "name": "Faculty of Law",
+      "acronym": "",
+      "departments": [
+        { "acronym": "", "name": "Commercial and Industrial Law" },
+        { "acronym": "", "name": "Public Law" },
+        { "acronym": "", "name": "Jurisprudence and International Law" },
+        { "acronym": "", "name": "Private and Property Law" }
+      ]
+    },
+    {
+      "name": "Faculty of Pharmacy",
+      "acronym": "",
+      "departments": [
+        { "acronym": "", "name": "Clinical Pharmacy" },
+        { "acronym": "", "name": "Pharm & Pharm Tech" },
+        { "acronym": "", "name": "Pharmaceutical Chemistry" },
+        { "acronym": "", "name": "Pharmacognosy" },
+        { "acronym": "", "name": "Pharm Micro & Biotech" }
+      ]
+    },
+    {
+      "name": "Faculty of Social Sciences",
+      "acronym": "FSS",
+      "departments": [
+        { "acronym": "", "name": "Mass Communication" },
+        { "acronym": "", "name": "Economics" },
+        { "acronym": "", "name": "Political Science" },
+        { "acronym": "", "name": "Psychology" },
+        { "acronym": "", "name": "Geography" },
+        { "acronym": "", "name": "Sociology" },
+        { "acronym": "", "name": "Social Work" }
+      ]
+    },
+    {
+      "name": "Faculty of Science",
+      "acronym": "FOS",
+      "departments": [
+        { "acronym": "", "name": "Botany" },
+        { "acronym": "CBG", "name": "Cell Biology and Genetics" },
+        { "acronym": "", "name": "Chemistry" },
+        { "acronym": "CSC", "name": "Computer Science" },
+        { "acronym": "", "name": "Geosciences" },
+        { "acronym": "", "name": "Marine Sciences" },
+        { "acronym": "MAT", "name": "Mathematics" },
+        { "acronym": "", "name": "Microbiology" },
+        { "acronym": "PHY", "name": "Physics" },
+        { "acronym": "STA", "name": "Statistics" },
+        { "acronym": "", "name": "Zoology" }
       ]
     }
   ]
