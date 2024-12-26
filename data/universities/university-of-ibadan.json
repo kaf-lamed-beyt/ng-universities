@@ -20,6 +20,52 @@
           "name": "department"
         }
       ]
+    },
+    {
+      "acronym": "",
+      "name": "Faculty of Technology",
+      "departments": [
+        {
+          "acronym": "",
+          "name": "Department of Agricultural and Enviromental Engineering"
+        },
+        {
+          "acronym": "",
+          "name": "Department of Automotive Engineering"
+        },
+        {
+          "acronym": "",
+          "name": "Department of Biomedical Engineering"
+        },
+        {
+          "acronym": "",
+          "name": "Department of Civil Engineering"
+        },
+        {
+          "acronym": "",
+          "name": "Department of Electrical and Electronics Engineering"
+        },
+        {
+          "acronym": "",
+          "name": "Department of Food Technology"
+        },
+        {
+          "acronym": "",
+          "name": "Department of Industrial and Production Engineering"
+        },
+        {
+          "acronym": "",
+          "name": "Department of Mechanical Engineering"
+        },
+        {
+          "acronym": "",
+          "name": "Department of Petroleum Engineering"
+        },
+        {
+          "acronym": "",
+          "name": "Department of Wood Products Engineering"
+        }
+      ]
     }
   ]
 }
