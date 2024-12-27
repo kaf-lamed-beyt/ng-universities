@@ -26,7 +26,7 @@
       "name": "Faculty of Technology",
       "departments": [
         {
-          "acronym": "",
+          "acronym": "TAE",
           "name": "Department of Agricultural and Enviromental Engineering"
         },
         {
@@ -38,31 +38,31 @@
           "name": "Department of Biomedical Engineering"
         },
         {
-          "acronym": "",
+          "acronym": "TCE",
           "name": "Department of Civil Engineering"
         },
         {
-          "acronym": "",
+          "acronym": "TEL",
           "name": "Department of Electrical and Electronics Engineering"
         },
         {
-          "acronym": "",
+          "acronym": "TFT",
           "name": "Department of Food Technology"
         },
         {
-          "acronym": "",
+          "acronym": "TIE",
           "name": "Department of Industrial and Production Engineering"
         },
         {
-          "acronym": "",
+          "acronym": "TME",
           "name": "Department of Mechanical Engineering"
         },
         {
-          "acronym": "",
+          "acronym": "TPE",
           "name": "Department of Petroleum Engineering"
         },
         {
-          "acronym": "",
+          "acronym": "TWE",
           "name": "Department of Wood Products Engineering"
         }
       ]
