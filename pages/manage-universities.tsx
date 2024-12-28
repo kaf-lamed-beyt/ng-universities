@@ -3,22 +3,6 @@ import Head from 'next/head';
 import type { University } from './api/universities';
 import styles from '@/styles/ManageUniversities.module.css';
 
-const fetchWithRetry = async (url: string, options: RequestInit, retries = 3) => {
-  for (let i = 0; i < retries; i++) {
-    try {
-      const response = await fetch(url, options);
-      if (!response.ok) {
-        const errorData = await response.json();
-        throw new Error(errorData.message || 'Request failed');
-      }
-      return response;
-    } catch (error) {
-      if (i === retries - 1) throw error;
-      await new Promise(resolve => setTimeout(resolve, 1000 * (i + 1)));
-    }
-  }
-};
-
 export default function ManageUniversities() {
   const [universities, setUniversities] = useState<University[]>([]);
   const [selectedUniversity, setSelectedUniversity] = useState<University | null>(null);
