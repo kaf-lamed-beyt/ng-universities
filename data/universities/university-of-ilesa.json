@@ -1,0 +1,110 @@
+{
+  "logo": "https://myschoolportal.net/blog/wp-content/uploads/2024/11/university-of-ilesa-logo-transparent.png",
+  "current_vc": "Prof. Taiwo Olufemi Asaolu",
+  "name": "University of Ilesa",
+  "acronym": "UNILESA",
+  "type": "state",
+  "location": {
+    "city": "Ilesa",
+    "state": "Osun"
+  },
+  "founded": 2022,
+  "website": "https://www.unilesa.edu.ng",
+  "faculties": [
+    {
+      "name": "Faculty of Art",
+      "acronym": "ART",
+      "departments": [
+        { "acronym": "ENGLISH", "name": "English Language" },
+        { "acronym": "MUSIC", "name": "Music" },
+        { "acronym": "LING", "name": "Linguistics" },
+        { "acronym": "HIST", "name": "History and International Studies" }
+      ]
+    },
+    {
+      "name": "Faculty of Basic Medical Sciences",
+      "acronym": "BMS",
+      "departments": [
+        { "acronym": "ANA", "name": "Anatomy" },
+        { "acronym": "PHEALT", "name": "Public Health" },
+        { "acronym": "PHY", "name": "Physiology" }
+      ]
+    },
+    {
+      "name": "Faculty of Computing",
+      "acronym": "COMPUTING",
+      "departments": [
+        { "acronym": "CMP", "name": "Computer Science" },
+        { "acronym": "CYBER", "name": "Cyber Security" }
+      ]
+    },
+    {
+      "name": "Faculty of Medical Laboratory Science",
+      "acronym": "MLS",
+      "departments": [
+        { "acronym": "MMP", "name": "Medical Microbiology & Parasitology" },
+        { "acronym": "HFM", "name": "Histopathology & Forensic Medicine" },
+        { "acronym": "HBT", "name": "Haematology & Blood Transfusion" },
+        { "acronym": "CPT", "name": "Chemical Pathology & Immunology" }
+      ]
+    },
+    {
+      "name": "Faculty of Nursing",
+      "acronym": "NURSING",
+      "departments": [
+        { "acronym": "CPH", "name": "Community/Public Health Nursing" },
+        { "acronym": "MCH", "name": "Maternal and Child Health Nursing" },
+        { "acronym": "MSN", "name": "Medical Surgery Nursing" },
+        { "acronym": "MHP", "name": "Mental Health & Psychiatric Nursing" }
+      ]
+    },
+    {
+      "name": "Faculty of Science",
+      "acronym": "SCIENCES",
+      "departments": [
+        { "acronym": "MBY", "name": "Microbiology" },
+        { "acronym": "BCH", "name": "Biochemistry" }
+      ]
+    },
+    {
+      "name": "Faculty of Law",
+      "acronym": "LAW",
+      "departments": [
+        { "acronym": "PCL", "name": "Private & Commercial Law" },
+        { "acronym": "PIL", "name": "Public & Internation Law" },
+        { "acronym": "ISL", "name": "Islamic & Customary Law" }
+      ]
+    },
+    {
+      "name": "Faculty of Social & Management Sciences",
+      "acronym": "SMS",
+      "departments": [
+        { "acronym": "ACC", "name": "Accounting" },
+        { "acronym": "ACC", "name": "Accounting" },
+        { "acronym": "BA", "name": "Business Administration" },
+        { "acronym": "PS", "name": "Political Science" },
+        { "acronym": "ECO", "name": "Economics" },
+        { "acronym": "TH", "name": "Tourism and Hospitality" },
+        { "acronym": "TPLS", "name": "Transport Planning & Logistic Studies" }
+      ]
+    },
+    {
+      "name": "Faculty of Education",
+      "acronym": "EDU",
+      "departments": [
+        { "acronym": "CSE", "name": "Computer Science Education" },
+        { "acronym": "IS", "name": "Integrated Science" },
+        { "acronym": "ELE", "name": "English Language Education" },
+        { "acronym": "PSE", "name": "Political Science Education" },
+        { "acronym": "EE", "name": "Economics Education" },
+        { "acronym": "SS", "name": "Social Studies" },
+        { "acronym": "GC", "name": "Guidance and Counselling" },
+        { "acronym": "ACE", "name": "Adult & Continuing Education" },
+        { "acronym": "ASE", "name": "Agricultural Science Education" },
+        { "acronym": "ME", "name": "Music Education" },
+        { "acronym": "BE", "name": "Business Education" },
+        { "acronym": "EM", "name": "Educational Management" }
+      ]
+    }
+  ]
+}
