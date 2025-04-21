@@ -36,40 +36,90 @@
         ]
       },
       {
-        "name": "Faculty of Computer Science and Information Technology",
-        "departments": []
+        "name": "Faculty of Computing",
+        "departments": [
+          { "acronym": "", "name": "Computer Science" },
+          { "acronym": "", "name": "Information Technology" },
+          { "acronym": "", "name": "Software Engineering" }
+        ]
       },
       {
         "name": "Faculty of Communication",
-        "departments": []
+        "departments": [
+          { "acronym": "", "name": "Information and Media Studies" },
+          { "acronym": "", "name": "Mass Communication" },
+          { "acronym": "", "name": "Theatre and Performing Arts" }
+        ]
       },
       {
         "name": "Faculty of Engineering",
-        "departments": []
+        "departments": [
+          { "acronym": "", "name": "Agricultural and Environmental" },
+          { "acronym": "", "name": "Chemical and Petroleum" },
+          { "acronym": "", "name": "Civil" },
+          { "acronym": "", "name": "Electrical" },
+          { "acronym": "", "name": "Mechanical" },
+          { "acronym": "", "name": "Mechatronics" }
+        ]
       },
       {
-        "name": "Faculty of Earth and Environmental",
-        "departments": []
+        "name": "Faculty of Earth and Environmental Sciences",
+        "departments": [
+          { "acronym": "", "name": "Architecture" },
+          { "acronym": "", "name": "Environmental Management" },
+          { "acronym": "", "name": "Estate Management" },
+          { "acronym": "", "name": "Geography" },
+          { "acronym": "", "name": "Geology" },
+          { "acronym": "", "name": "Quantity Surveying" },
+          { "acronym": "", "name": "Urban and Regional Planning" }
+        ]
       },
       {
         "name": "Faculty of Education",
-        "departments": []
+        "departments": [
+          { "acronym": "", "name": "Science and Technology Education" },
+          { "acronym": "", "name": "Physical and Health Education" },
+          { "acronym": "", "name": "Adult Education and Community Development Services" },
+          { "acronym": "", "name": "Education" },
+          { "acronym": "", "name": "Library and Information Science" },
+          { "acronym": "", "name": "Special Education" }
+        ]
       },
       {
         "name": "Faculty of Law",
-        "departments": []
+        "departments": [
+          { "acronym": "", "name": "Public Law" },
+          { "acronym": "", "name": "Islamic Law" },
+          { "acronym": "", "name": "Private and Commercial Law" },
+          { "acronym": "", "name": "International Law & Jurisprudence" }
+        ]
       },
       {
         "name": "Faculty of Management Sciences",
-        "departments": []
+        "departments": [
+          { "acronym": "", "name": "Accounting" },
+          { "acronym": "", "name": "Department of Business Administration and Enterpreneurship" },
+          { "acronym": "", "name": "Department of Public Administration" },
+          { "acronym": "", "name": "Finance" }
+        ]
       },
       {
         "name": "Faculty of Social Sciences",
-        "departments": []
+        "departments": [
+          { "acronym": "", "name": "Economics" },
+          { "acronym": "", "name": "Political Science" },
+          { "acronym": "", "name": "Social Science and Administration" },
+          { "acronym": "", "name": "Sociology" }
+        ]
       },
       {
         "name": "Faculty of Veterinary Medicine",
-        "departments": []
+        "departments": [
+          { "acronym": "", "name": "Veterinary Anatomy" },
+          { "acronym": "", "name": "Veterinary Pathobiology" },
+          { "acronym": "", "name": "Veterinary Physiology and Biochemistry" },
+          { "acronym": "", "name": "Veterinary Teaching Hospital" }
+        ]
       }
     ]
   }
