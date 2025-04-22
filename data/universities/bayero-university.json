@@ -1,12 +1,12 @@
 {
-    "logo": "https://example.com/university-logo.png",
-    "current_vc": "Professor Example VC",
-    "name": "Example State University",
-    "acronym": "ESU",
-    "type": "state",
+    "logo": "https://www.buk.edu.ng/sites/default/files/inline-images/buk-logo.png",
+    "current_vc": "Professor Sagir Adamu Abbas",
+    "name": "Bayero University",
+    "acronym": "BUK",
+    "type": "federal",
     "location": {
-      "city": "Example City",
-      "state": "Example State"
+      "city": "Kano",
+      "state": "Kano State"
     },
     "founded": 2025,
     "website": "https://exampleuniversity.edu",
