@@ -8,8 +8,8 @@
       "city": "Kano",
       "state": "Kano State"
     },
-    "founded": 2025,
-    "website": "https://exampleuniversity.edu",
+    "founded": 1962,
+    "website": "https://www.buk.edu.ng",
     "faculties": [
       {
         "name": "Faculty of Arts and Islamic Studies",
@@ -123,4 +123,3 @@
       }
     ]
   }
-  
